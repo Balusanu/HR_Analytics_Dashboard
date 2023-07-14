@@ -3,12 +3,12 @@ Excel Portfolio Project on HR Analytics
 
 	Procedure:
 	
-          1) used nested ifs, left, right, mid & Date functions for Data Analysis.
-          2)Most of the Analysis is done by Pivot tables
-         3) Used icons with hyperlinks for page navigation.
-         4) Bar chart, column chart, pie chart, Doughnut chart, line chart, Histogram, and conditional
+         `1) used nested ifs, left, right, mid & Date functions for Data Analysis.
+        ``2)Most of the Analysis is done by Pivot tables
+          3) Used icons with hyperlinks for page navigation.
+          4) Bar chart, column chart, pie chart, Doughnut chart, line chart, Histogram, and conditional
           Formatting features are used for Visualisation
-
+`
 	Insights
 	
 	Demographics:
